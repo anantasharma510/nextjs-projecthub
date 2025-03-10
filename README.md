@@ -158,14 +158,3 @@ Create a pull request (PR) to merge your changes into the main repository.
 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-vbnet
-Copy
-Edit
-
-### Key Improvements:
-1. **Clean Formatting**: Each section is separated by horizontal lines (`---`), making it visually easy to differentiate between sections.
-2. **Clear Instructions**: Step-by-step instructions for cloning, adding projects, running the server, and deploying are simplified.
-3. **Well-Defined Project Structure**: The directory structure is clearly explained, helping new contributors quickly understand how to organize their code.
-4. **Contributing Section**: Clear, concise instructions for contributing are provided, making it easy for others to get involved.
-
-This version is well-organized and easy to read, making it accessible for both developers and non-developers alike.
